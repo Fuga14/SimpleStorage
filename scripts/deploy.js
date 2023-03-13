@@ -1,8 +1,3 @@
-/*
-  hardhat localhost node
-  09:26:54
-*/
-
 const hre = require('hardhat'); // Hardhat runtime enviroment
 const run = require('hardhat');
 const network = require('hardhat');
