@@ -7,8 +7,9 @@ npx hardhat run scripts/deploy.js
 ```
 
 To run test use
-Gas reporter is enable!
 
 ```shell
 npx npx hardhat test
 ```
+
+Gas reporter is enable!
